@@ -58,19 +58,19 @@ SHOW TABLES;
 ```
 
 #### Установка MySQL, запуск службы и создание пользователя
-<img src="img/image1.png" alt="Установка и настройка MySQL" width="800"/>
+<img src="img/image1.png" alt="Установка и настройка MySQL" width="750"/>
 
 #### Отображение списка пользователей и выдача привилегий
-<img src="img/image2.png" alt="Список пользователей с привилегиями" width="800"/>
+<img src="img/image2.png" alt="Список пользователей с привилегиями" width="750"/>
 
 #### Запрос на получение списка прав для sys_temp (выданы)
-<img src="img/image3.png" alt="Права sys_temp в MySQL" width="800"/>
+<img src="img/image3.png" alt="Права sys_temp в MySQL" width="750"/>
 
 #### Процесс распаковки базы данных и создание БД sakila
-<img src="img/image4.png" alt="Распаковка и создание sakila" width="800"/>
+<img src="img/image4.png" alt="Распаковка и создание sakila" width="750"/>
 
 #### Итоговый список таблиц в БД sakila (доказывает успешную загрузку)
-<img src="img/image5.png" alt="Таблицы в sakila загружены" width="800"/>
+<img src="img/image5.png" alt="Таблицы в sakila загружены" width="750"/>
 
 ---
 
@@ -90,13 +90,13 @@ EXIT;
 Примечание: в результатах есть таблицы с составными первичными ключами (film_actor, film_category), для них указаны оба ключа через запятую, так как они вместе образуют первичный ключ.
 
 #### Подключение к базе данных Sakila под пользователем sys_temp
-<img src="img/image6.png" alt="Подключение к Sakila" width="800"/>
+<img src="img/image6.png" alt="Подключение к Sakila" width="750"/>
 
 #### Выполнение SQL-запроса для получения первичных ключей
-<img src="img/image7.png" alt="Запрос первичных ключей" width="800"/>
+<img src="img/image7.png" alt="Запрос первичных ключей" width="750"/>
 
 #### Финальная таблица с первичными ключами всех таблиц
-<img src="img/image8.png" alt="Таблица первичных ключей" width="800"/>
+<img src="img/image8.png" alt="Таблица первичных ключей" width="750"/>
 
 Или в таком виде:
 
